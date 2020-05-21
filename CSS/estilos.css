@@ -1,0 +1,43 @@
+body {
+    background: #1D4E89;
+      background-size: auto 100vh;
+        font-family: vollkorn;
+      height: 100vh;
+    
+    }
+    
+    .menu {
+      background-color: #FA7268;
+    }
+    
+    a {
+      text-decoration: none;
+      color: white;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .menu ul {
+      display: flex;
+      justify-content: space-around;
+      font-style: Verdana;
+    }
+    
+    .menu li {
+      list-style: none;
+    }
+    
+    .site-sub {
+      color: white;
+      font-style: italic;
+      text-align: center;
+    }
+    
+    .site-title {
+     color: #FA7268;
+     text-align: center;
+    }
+    
+    
